@@ -1,0 +1,16 @@
+{
+  "name": "forms-angular-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-route": "^1.6.1",
+    "forms-angular": "^0.7.1"
+  }
+}
